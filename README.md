@@ -1,1 +1,0 @@
-# Gitpitch_Training
